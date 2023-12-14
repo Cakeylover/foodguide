@@ -922,7 +922,7 @@ export const food = {
 	},
 	sweet_potato: {
 		name: 'Sweet Potato',
-		veggie: 1,
+		meat: 100,
 		health: healing_tiny,
 		hunger: calories_small,
 		sanity: 0,
