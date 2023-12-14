@@ -928,7 +928,6 @@ export const food = {
 		sanity: 0,
 		perish: perish_med,
 		stack: stack_size_smallitem,
-		mode: 'shipwrecked'
 	},
 	sweet_potato_cooked: {
 		name: 'Cooked Sweet Potato',
